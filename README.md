@@ -1,0 +1,1 @@
+This is a research I worked on in 2020 at Politecnico of Tourin as a member of the Deep Learning and Computer Vision Squad of the Draft Polito student team. It is about the identification, recognition and reading of QR codes on embedded systems with limited computational capacity like a Raspberry Pi.
